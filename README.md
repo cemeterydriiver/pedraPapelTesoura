@@ -1,1 +1,1 @@
-# pedraPapelTesoura
+# pedraPapelTesoura✊✋✌️
