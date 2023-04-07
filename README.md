@@ -1,7 +1,7 @@
 # pedraPapelTesoura✊✋✌️
 _O projeto "pedraPapelTesoura" consiste em um jogo de pedra, papel e tesoura web! No qual, o jogador joga contra um bot_
 
-[CLIQUE AQUI](https://cemeterydriiver.github.io/pedraPapelTesoura/0) para jogar!
+[CLIQUE AQUI](https://cemeterydriiver.github.io/pedraPapelTesoura/) para jogar!
 
 ## ⚙️Funcionamento:
 _O jogo é jogado contra o computador e consiste em rodadas em que cada jogador escolhe entre pedra, papel ou tesoura. O objetivo é vencer o adversário escolhendo a opção que vence a opção escolhida pelo adversário, de acordo com as seguintes regras:_
